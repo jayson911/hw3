@@ -16,6 +16,7 @@
     background-color: #35cd9f;
     position: relative;
     display: flex;
+    justify-content: center;
 }
 .bg2{
     width: 500px;
