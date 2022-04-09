@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+.card {
+    width: 950px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sometxt{
+    width: 300px;
+    height: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    position: relative;
+}
+.h1-txt{
+    display: block;
+    text-align: center;
+    align-items: flex-end;
+}
+.p-txt{
+    text-align: center;
+    width: 80%;
+    margin-left: 30px;
+}
+.button{
+    height: 40px;
+    width: 150px;
+    border: 1px solid black;
+    margin-left: 60px;
+    margin-top: 100px;
+    display: block;
+    text-align: center;
+}
+.button-text{
+    justify-content: center;
+    margin-bottom: 0;
+    margin-top: 10px;
+
+}
+.round{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 1px;
+    /*background-color: #35cd9f;*/
+    border-style: solid;
+    border-color: black;
+    position: absolute;
+    top: -40px;
+    left: 115px;
+}
+.fa-face-dizzy{
+  display: flex;
+    font-size: 40px;
+    padding-left: 10px;
+    padding-top: 10px;
+}

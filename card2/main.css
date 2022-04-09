@@ -1,0 +1,24 @@
+.conteiner{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 5px;
+    position: relative;
+    top: 250px;
+    left: 10px;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.bg1{
+    width: 500px;
+    height: 300px;
+    background-color: #35cd9f;
+    position: relative;
+    display: flex;
+}
+.bg2{
+    width: 500px;
+    height: 300px;
+    background-color: blue;
+}
